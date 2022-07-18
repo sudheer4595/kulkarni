@@ -1,0 +1,10 @@
+
+     body {
+            background-color: plum;
+        }
+    hr {
+            border-style: dotted none none;
+            border-color: grey;
+            border-width: 3px;
+            width: 3%;
+    }
